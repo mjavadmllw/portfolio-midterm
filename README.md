@@ -1,4 +1,4 @@
-# portfolio-midterm
-mohammad javad bagheri
+A simple resume site in html / css / js 
 
-this is just for my midterm 
+Persianized and straightened 
+
