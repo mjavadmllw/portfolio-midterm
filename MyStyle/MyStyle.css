@@ -1,0 +1,16 @@
+body {
+    direction: rtl;
+}
+
+.post-author {
+    float: left;
+}
+
+.ico-circle i {
+    position: relative;
+    top: 4px;
+}
+
+.comment-avatar {
+    padding-left: 15px;
+}
